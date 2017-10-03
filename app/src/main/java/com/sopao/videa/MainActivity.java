@@ -24,7 +24,7 @@ import java.net.URLEncoder;
 public class MainActivity extends Activity {
 
     String name= null;
-    String[] temp={"0","1"};
+    String[] temp={"0","0"};
     String[] num={"0","0"};
     GridView list;
     String[] imgurl={"http://api.3ek.com.cn/fuwuqi/sever/%E7%BA%A6%E7%BE%8E.png","http://api.3ek.com.cn/fuwuqi/sever/%E7%BA%A6%E7%BE%8E.png"};
